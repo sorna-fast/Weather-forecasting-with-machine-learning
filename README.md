@@ -61,7 +61,6 @@ Weather-forecasting-with-machine-learning/
 - **Random Forest Regressor**
 - **SVR**
 - **Gradient Boosting**
-- **Gradient Boosting**
 - **XGBoost**
 
 ## Results & Performance
@@ -149,7 +148,6 @@ Weather-forecasting-with-machine-learning/
 - **Decision Tree**
 - **Random Forest Regressor**
 - **SVR**
-- **Gradient Boosting**
 - **Gradient Boosting**
 - **(XGBoost)**
 
