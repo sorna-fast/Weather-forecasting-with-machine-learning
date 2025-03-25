@@ -57,8 +57,12 @@ Weather-forecasting-with-machine-learning/
 
 ## Models Used
 - **Linear Regression**
+- **Decision Tree**
 - **Random Forest Regressor**
+- **SVR**
 - **Gradient Boosting**
+- **Gradient Boosting**
+- **XGBoost**
 
 ## Results & Performance
 The models are evaluated using **Mean Absolute Error (MAE)** and **Root Mean Square Error (RMSE)**. The best-performing model results are documented within the notebooks.
@@ -141,9 +145,13 @@ Weather-forecasting-with-machine-learning/
 ```  
 
 ## مدل‌های استفاده شده  
-- **رگرسیون خطی (Linear Regression)**  
-- **رگرسیون جنگل تصادفی (Random Forest Regressor)**  
-- **گرادیان بوستینگ (Gradient Boosting)**  
+- **Linear Regression**
+- **Decision Tree**
+- **Random Forest Regressor**
+- **SVR**
+- **Gradient Boosting**
+- **Gradient Boosting**
+- **(XGBoost)**
 
 ## نتایج و عملکرد  
 مدل‌ها با استفاده از **میانگین خطای مطلق (MAE)** و **ریشه میانگین مربعات خطا (RMSE)** ارزیابی شده‌اند. نتایج بهترین مدل در داخل نوتبوک‌ها مستندسازی شده است.  
